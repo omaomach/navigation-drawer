@@ -22,7 +22,7 @@
             <group android:checkableBehavior="single">
                 <item
                     android:id="@+id/login"
-                    android:title="Login Page"
+                    android:title="Login Page"/>
             </group>
         </menu>
     </item>
